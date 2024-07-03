@@ -67,7 +67,8 @@ select {
     /*text-align: left;*/
     appearance: none;
     /*line-height: 19px;*/
-    background-image: url("./assets/images/arrow.svg") no-repeat;
+    background-image: url("./assets/images/arrow.svg");
+    background-repeat: no-repeat;
 }
 
 .section-title {
